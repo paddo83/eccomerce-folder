@@ -133,5 +133,34 @@
 .header_container {
    width: 100%;
    display: flex;
-
+   margin-top: 4rem;
 }
+.header_filter {
+   width: 25%;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+}
+.section_category_p {
+   border-left: 1.4rem solid var(--colo-primary);
+   padding-left: 1.5rem;
+   margin-bottom: 1.5rem;
+   color: var(--colo-primary);
+   font-size: 1.3rem;
+}
+
+.section_header {
+   display: flex;
+   align-items: flex-end;
+   margin-bottom: 4rem;
+}
+
+.section_title {
+   margin-right: 2rem;
+   font-size: 2.6rem;
+}
+
+#demo {
+   font-size: 1.8rem;
+}
+
