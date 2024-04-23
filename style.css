@@ -210,6 +210,24 @@
    color: var(--colo-white-1);
    border-radius: 0.5rem;
 }
+.card_top_icons {
+   position: absolute;
+      z-index: 9;
+      top: 1rem;
+      right: 1rem;
+   }
+.card_top_icon {
+   width: 3.4rem;
+   height: 3.4rem;
+   padding: 1rem;
+   background-color: var(--colo-white-1);
+   border-radius: 10rem;
+}
+.card_body {
+   margin-top: 1rem;
+   text-align: left;
+}
+
 
 
 
