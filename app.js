@@ -30,7 +30,7 @@ var x = setInterval(function() {
 
 
 
-   var swiper = new swiper(".mySwiper", {
+   var swiper = new Swiper(".mySwiper", {
   slidesPerView: 2,
   spaceBetween: 10,
   pagination: {
