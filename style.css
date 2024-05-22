@@ -221,7 +221,7 @@
    border-radius: 0.5rem;
 }
 .card_top_icons {
-   position: absolute;
+      position: absolute;
       z-index: 9;
       top: 1rem;
       right: 1rem;
